@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -38.7206605 -12.8261345 -3.49 238.13
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -38.6911333 -12.8343174 -2.36 74.58
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -38.6321754 -12.7558081 -0.04 162.51
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -38.6258571 -12.7564487 -0.01 48.24
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -38.7378075 -12.811478 -3.64 172.31
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -38.7011516 -12.8728307 -1.14 215.53
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -38.688377 -12.8650033 -1.81 283.07
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -38.6978938 -12.8594265 -1.42 241.18
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -38.6957391 -12.8644281 -1.52 61.65
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -38.6769105 -12.8727307 -1.96 242.5

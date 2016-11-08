@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Airport/ndb.ac -38.420833 -12.928 71.17 180
+OBJECT_SHARED Models/Airport/marker.ac -38.420833 -12.928 71.17 180
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -38.4983067 -12.8966324 -0.29 157.01

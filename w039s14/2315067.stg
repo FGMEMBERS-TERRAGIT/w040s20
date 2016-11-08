@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -38.5383495 -13.0077013 -0.31 226.58
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -38.5286282 -13.0193371 -0.21 202.68
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -38.5228507 -13.0827353 -3.77 67.84
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -38.5764929 -13.0083992 -1.44 83.88
